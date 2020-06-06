@@ -1,0 +1,21 @@
+package edu.ufl.bmi.misc;
+
+import java.util.ArrayList;
+import java.io.IOException;
+import java.io.FileReader;
+import java.io.LineNumberReader;
+import java.util.regex.Pattern;
+
+
+public class DtmIndividConnectGuide {
+
+    String fname;
+    ArrayList
+    public DtmIndividConnectGuide(String fname) {
+	this.fname = fname;
+    }
+
+    public void init() throws IOException {
+    
+    }
+}

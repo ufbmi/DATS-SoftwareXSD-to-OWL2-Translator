@@ -1,0 +1,132 @@
+versionid	http://purl.obolibrary.org/obo/APOLLO_SV_00000108	class
+doi	http://purl.obolibrary.org/obo/OBI_0002110	class
+dtm	http://purl.obolibrary.org/obo/APOLLO_SV_00000174	class
+codewriting	http://purl.obolibrary.org/obo/APOLLO_SV_00000008	class
+human	http://purl.obolibrary.org/obo/NCBITaxon_9606	class
+programminglanguage	http://purl.obolibrary.org/obo/IAO_0000025	class
+documentation	http://purl.obolibrary.org/obo/IAO_0000310	class
+publication	http://purl.obolibrary.org/obo/IAO_0000311	class
+license	http://purl.obolibrary.org/obo/APOLLO_SV_00000535	class
+dataformat	http://purl.obolibrary.org/obo/IAO_0000098	class
+webexecutionof	http://purl.obolibrary.org/obo/OBIws_0000050	class
+studyexecution	http://purl.obolibrary.org/obo/OBI_0000471	class
+hasURL	http://purl.obolibrary.org/obo/ERO_0000480	annotation
+label	http://www.w3.org/2000/01/rdf-schema#label	annotation
+title	http://purl.org/dc/elements/1.1/title	annotation
+has active participant	http://purl.obolibrary.org/obo/RO_0002218	object property
+has specified input	http://purl.obolibrary.org/obo/OBI_0000293	object property
+has specified output	http://purl.obolibrary.org/obo/OBI_0000299	object property
+is about	http://purl.obolibrary.org/obo/IAO_0000136	object property
+realizes	http://purl.obolibrary.org/obo/BFO_0000055	object property
+denotes	http://purl.obolibrary.org/obo/IAO_0000219	object property
+is part of	http://purl.obolibrary.org/obo/BFO_0000050	object property
+is realized by	http://purl.obolibrary.org/obo/BFO_0000054	object property
+synopsis	http://purl.obolibrary.org/obo/APOLLO_SV_00000523	annotation
+compiling	http://purl.obolibrary.org/obo/APOLLO_SV_00000524	class
+executable	http://purl.obolibrary.org/obo/APOLLO_SV_00000525	class
+sourcerepository	http://purl.obolibrary.org/obo/APOLLO_SV_00000522	class
+bearer	http://purl.obolibrary.org/obo/RO_0000053	object property
+legalpersonrole	http://purl.obolibrary.org/obo/OMRSE_00000038	class
+website	http://purl.obolibrary.org/obo/FBcv_0000667	class
+wsexecutionof	http://purl.obolibrary.org/obo/OBIws_0000104	class
+dataabouthost	http://purl.obolibrary.org/obo/IAO_0000100	class
+dataaboutpathogen	http://purl.obolibrary.org/obo/IAO_0000100	class
+executionof	http://purl.obolibrary.org/obo/OBIws_0000050	class
+developer	http://purl.obolibrary.org/obo/BFO_0000040	class
+editor preferred	http://purl.obolibrary.org/obo/IAO_0000111	annotation
+is contact information about	http://purl.obolibrary.org/obo/OMIABIS_0000042	object property
+email address	http://purl.obolibrary.org/obo/IAO_0000429	class
+olympus	http://www.pitt.edu/obc/IDE_0000004098	individual
+compute cluster	http://purl.obolibrary.org/obo/OBI_0001092	class
+executableConcretization	http://purl.obolibrary.org/obo/IAO_0000015	class
+olympusConc	http://purl.obolibrary.org/obo/IAO_0000015	class
+uidsConc	http://purl.obolibrary.org/obo/IAO_0000015	class
+is concretized as	http://purl.obolibrary.org/obo/RO_0000058	object property
+has basis in	http://purl.obolibrary.org/obo/APOLLO_SV_00000543	object property
+s-depends	http://purl.obolibrary.org/obo/BFO_0000169	object property
+disposition	http://purl.obolibrary.org/obo/BFO_0000016	class
+software	http://purl.obolibrary.org/obo/OBI_0500000	class
+simulatingx	http://purl.obolibrary.org/obo/APOLLO_SV_00000005	class
+simulatedhostpopulation	http://purl.obolibrary.org/obo/APOLLO_SV_00000031	class
+simulatedpathogenpopulation	http://purl.obolibrary.org/obo/APOLLO_SV_00000031	class
+achieves objective	http://purl.obolibrary.org/obo/OBI_0000417	object property
+dataencoding	http://purl.obolibrary.org/obo/OBI_0000227	class
+dataparsing	http://purl.obolibrary.org/obo/APOLLO_SV_00000566	class
+executableParsingPlan	http://purl.obolibrary.org/obo/IAO_0000104	class
+executableEncodingPlan	http://purl.obolibrary.org/obo/IAO_0000104	class
+Population dynamics models	http://purl.obolibrary.org/obo/APOLLO_SV_00000540	class
+Disease transmission models	http://purl.obolibrary.org/obo/APOLLO_SV_00000561	class
+Disease forecasters	http://purl.obolibrary.org/obo/APOLLO_SV_00000557	class
+Pathogen evolution models	http://purl.obolibrary.org/obo/APOLLO_SV_00000544	class
+Data visualizers	http://purl.obolibrary.org/obo/APOLLO_SV_00000564	class
+Disease transmission tree estimators	http://purl.obolibrary.org/obo/APOLLO_SV_00000555	class
+Synthetic ecosystem constructors	http://purl.obolibrary.org/obo/APOLLO_SV_00000567	class
+Phylogenetic tree constructors	http://purl.obolibrary.org/obo/APOLLO_SV_00000563	class
+Data-format converters	http://purl.obolibrary.org/obo/APOLLO_SV_00000562	class
+Modeling platforms	http://purl.obolibrary.org/obo/APOLLO_SV_00000565	class
+host population	http://purl.obolibrary.org/obo/APOLLO_SV_00000516	class
+pathogen population	http://www.pitt.edu/obc/IDE_0000000007	class
+located in	http://purl.obolibrary.org/obo/RO_0001025	object property
+proper continuant part	http://purl.obolibrary.org/obo/BFO_0000137	object property
+population	http://purl.obolibrary.org/obo/PCO_0000001	class
+is aggregate of	http://purl.obolibrary.org/obo/BFO_0000075	object property
+agent level ecosystem census	http://purl.obolibrary.org/obo/APOLLO_SV_00000165	class
+disease surveillance data	http://purl.obolibrary.org/obo/APOLLO_SV_00000554	class
+epidemic data set	http://purl.obolibrary.org/obo/APOLLO_SV_00000560	class
+data set creation	http://purl.obolibrary.org/obo/APOLLO_SV_00000796	class
+authors	http://www.pitt.edu/obc/AUTHORS_1	annotation
+data set date	http://purl.org/dc/elements/1.1/date	annotation
+ends during	http://purl.obolibrary.org/obo/RO_0002093	object property
+data set curation	http://purl.obolibrary.org/obo/OBI_0302914	class
+temporal interval	http://purl.obolibrary.org/obo/BFO_0000038	class
+occupies temporal region	http://purl.obolibrary.org/obo/BFO_0000155	object property
+identifier	http://purl.obolibrary.org/obo/IAO_0020000	class
+owns	http://purl.obolibrary.org/obo/OMIABIS_0000008	object property
+license version identifier	http://purl.obolibrary.org/obo/APOLLO_SV_00000537	class
+license date	http://purl.org/dc/elements/1.1/date	annotation
+creating license	http://purl.obolibrary.org/obo/APOLLO_SV_00000797	class
+Data services	http://purl.obolibrary.org/obo/APOLLO_SV_00000799	class
+alternative term	http://purl.obolibrary.org/obo/IAO_0000118	annotation
+description	http://purl.org/dc/elements/1.1/description	annotation
+published date	http://purl.org/dc/elements/1.1/date	annotation
+mortality data	http://purl.obolibrary.org/obo/APOLLO_SV_00000542	class
+disease surveillance data	http://purl.obolibrary.org/obo/APOLLO_SV_00000554	class
+case series data	http://purl.obolibrary.org/obo/APOLLO_SV_00000559	class
+infectious disease scenario	http://purl.obolibrary.org/obo/APOLLO_SV_00000184	class
+version number	http://purl.obolibrary.org/obo/IAO_0000129	class
+aggregate of disease courses	http://purl.obolibrary.org/obo/APOLLO_SV_00000578	class
+simulates	http://purl.obolibrary.org/obo/APOLLO_SV_00000067	object property
+mdc	http://www.pitt.edu/obc/IDE_ARTICLES_12000070095	individual
+mdc website	http://www.pitt.edu/obc/IDE_ARTICLES_12000070096	individual
+dataset	http://purl.obolibrary.org/obo/IAO_0000100	class
+forecast	http://purl.obolibrary.org/obo/APOLLO_SV_00000581	class
+nowcast	http://purl.obolibrary.org/obo/APOLLO_SV_00000582	class
+weighted mean	http://purl.obolibrary.org/obo/STATO_0000398	class
+peak intensity	http://purl.obolibrary.org/obo/APOLLO_SV_00000577	class
+peak week	http://purl.obolibrary.org/obo/APOLLO_SV_00000576	class
+case count	http://purl.obolibrary.org/obo/APOLLO_SV_00000497	class
+epi case count	http://purl.obolibrary.org/obo/APOLLO_SV_00000498	class
+start week	http://purl.obolibrary.org/obo/APOLLO_SV_00000575	class
+time datum	http://purl.obolibrary.org/obo/IAO_0000416	class
+week	http://purl.obolibrary.org/obo/UO_0000034	individual
+sim time step spec	http://purl.obolibrary.org/obo/APOLLO_SV_00000068	class
+has value specification	http://purl.obolibrary.org/obo/OBI_0001938	object property
+scalar value specification	http://purl.obolibrary.org/obo/OBI_0001931	class
+has unit	http://purl.obolibrary.org/obo/IAO_0000039	object property
+has proper part	http://purl.obolibrary.org/obo/BFO_0000174	object property
+dna sequence data set	http://purl.obolibrary.org/obo/OBI_0001573	class
+planned process	http://purl.obolibrary.org/obo/OBI_0000011	class
+time series data set	http://purl.obolibrary.org/obo/IAO_0000584	class
+diagram	http://purl.obolibrary.org/obo/IAO_0000309	class
+website with data	http://purl.obolibrary.org/obo/APOLLO_SV_00000590	class
+climate data set	http://purl.obolibrary.org/obo/APOLLO_SV_00000591	class
+population census	http://purl.obolibrary.org/obo/APOLLO_SV_00000153	class
+genomic data	http://www.ebi.ac.uk/efo/EFO_0004600	class
+MetagenomicAnalysis	http://purl.obolibrary.org/obo/APOLLO_SV_00000592	class
+dataInputPlanSpecification	http://purl.obolibrary.org/obo/IAO_0000104	class
+dataOutputPlanSpecification	http://purl.obolibrary.org/obo/IAO_0000104	class
+comment	http://www.w3.org/2000/01/rdf-schema#comment	annotation
+treatment facility census	http://purl.obolibrary.org/obo/APOLLO_SV_00000595	class
+population demographic census	http://purl.obolibrary.org/obo/APOLLO_SV_00000159	class
+atmospheric data set	http://purl.obolibrary.org/obo/APOLLO_SV_00000594	class
+Validators	http://purl.obolibrary.org/obo/APOLLO_SV_00000597	class

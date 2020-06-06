@@ -1,0 +1,55 @@
+Richard Neher	http://www.pitt.edu/obc/IDE_ARTICLE_1200008940
+Colin Worby	http://www.pitt.edu/obc/IDE_ARTICLE_1200008805
+Yang Lu	http://www.pitt.edu/obc/IDE_ARTICLE_1200008182
+Bruno Kessler Foundation	http://www.pitt.edu/obc/IDE_ARTICLE_1200008885
+Shannon Gallagher	http://www.pitt.edu/obc/IDE_ARTICLE_1200009025
+Dahl Winters	http://www.pitt.edu/obc/IDE_ARTICLE_1200008831
+Trevor Bedford	http://www.pitt.edu/obc/IDE_ARTICLE_1200008942
+University of Florida	http://www.pitt.edu/obc/IDE_ARTICLE_1200008891
+Sergei Pond	http://www.pitt.edu/obc/IDE_ARTICLE_1200008511
+Max Sibilla	http://www.pitt.edu/obc/IDE_ARTICLE_1200008596
+RTI International	http://www.pitt.edu/obc/IDE_ARTICLE_1200008825
+Ahlgren, Nathan A., Jie Ren, Yang Young Lu, Jed A. Fuhrman, and Fengzhu Su	http://www.pitt.edu/obc/IDE_ARTICLE_1200008871
+Jie Ren, Nathan Ahlgren, Yang Lu, Jed Fuhrman, Fengzhu Sun	http://www.pitt.edu/obc/IDE_ARTICLE_1200008859
+Center for Inference and Dynamics of Infectious Disease	http://www.pitt.edu/obc/IDE_ARTICLE_1200008846
+Wilbert Van Panhuis	http://www.pitt.edu/obc/IDE_ARTICLE_1200008594
+Samuel Ventura	http://www.pitt.edu/obc/IDE_ARTICLE_1200009029
+Commissioned by Sara de Valle Ph.D., Los Alamos National Labs	http://www.pitt.edu/obc/IDE_ARTICLE_1200008304
+Caroline Dube	http://www.pitt.edu/obc/IDE_ARTICLE_1200008540
+St�phane Guidon (LIRMM, Montpellier, France.)	http://www.pitt.edu/obc/IDE_ARTICLE_1200008711
+Northeastern University	http://www.pitt.edu/obc/IDE_ARTICLE_1200008883
+Barney Potter	http://www.pitt.edu/obc/IDE_ARTICLE_1200008952
+Aaron Reeves	http://www.pitt.edu/obc/IDE_ARTICLE_1200008546
+John Levander	http://www.pitt.edu/obc/IDE_ARTICLE_1200008598
+Bill Eddy	http://www.pitt.edu/obc/IDE_ARTICLE_1200009031
+William Eddy	http://www.pitt.edu/obc/IDE_ARTICLE_1200009031
+Olivier Gascuel (LIRMM, Montpellier, France.)	http://www.pitt.edu/obc/IDE_ARTICLE_1200008713
+Sahawut Wesaratchakit	http://www.pitt.edu/obc/IDE_ARTICLE_1200009049
+James Hadfield	http://www.pitt.edu/obc/IDE_ARTICLE_1200008946
+Kun Wang	http://www.pitt.edu/obc/IDE_ARTICLE_1200008911
+Anna Seitzinger	http://www.pitt.edu/obc/IDE_ARTICLE_1200008548
+Software Development Service, Informatics Services Group	http://www.pitt.edu/obc/IDE_ARTICLE_1200008163
+Brandon Bergenroth	http://www.pitt.edu/obc/IDE_ARTICLE_1200008829
+DELPHI, Carnegie Mellon University	http://www.pitt.edu/obc/IDE_ARTICLE_1200008323
+Sarah Murata	http://www.pitt.edu/obc/IDE_ARTICLE_1200008954
+Neil Harvey	http://www.pitt.edu/obc/IDE_ARTICLE_1200008542
+Bill Wheaton	http://www.pitt.edu/obc/IDE_ARTICLE_1200008827
+William Wheaton	http://www.pitt.edu/obc/IDE_ARTICLE_1200008827
+Thibaut Jombart	http://www.pitt.edu/obc/IDE_ARTICLE_1200008979
+Professor Joseph Felsenstein, of the Department of Genome Sciences and the Department of Biology, University of Washington, Seattle.	http://www.pitt.edu/obc/IDE_ARTICLE_1200008695
+James Rineer	http://www.pitt.edu/obc/IDE_ARTICLE_1200008833
+Lee Richardson	http://www.pitt.edu/obc/IDE_ARTICLE_1200009027
+elray1	http://www.pitt.edu/obc/IDE_ARTICLE_1200008403
+Kelly Patyk	http://www.pitt.edu/obc/IDE_ARTICLE_1200008544
+Programming by Software Development Service, Informatics Services Group.	http://www.pitt.edu/obc/IDE_ARTICLE_1200008306
+Nick Reich	http://www.pitt.edu/obc/IDE_ARTICLE_1200008399
+ISI Foundation	http://www.pitt.edu/obc/IDE_ARTICLE_1200008887
+Fred Hutchinson Cancer Research Center	http://www.pitt.edu/obc/IDE_ARTICLE_1200008889
+Colin Megill	http://www.pitt.edu/obc/IDE_ARTICLE_1200008944
+Charlton Callender	http://www.pitt.edu/obc/IDE_ARTICLE_1200008948
+Nicholas Reich	http://www.pitt.edu/obc/IDE_ARTICLE_1200008387
+Abhinav Tushar	http://www.pitt.edu/obc/IDE_ARTICLE_1200008401
+Sidney Bell	http://www.pitt.edu/obc/IDE_ARTICLE_1200008950
+Steven Weaver	http://www.pitt.edu/obc/IDE_ARTICLE_1200008513
+Shawn T. Brown	http://www.pitt.edu/obc/IDE_ARTICLE_1200008197
+Shawn Brown	http://www.pitt.edu/obc/IDE_ARTICLE_1200008197

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1519410584220" name="http://www.pitt.edu/mdc/dataformat" uri="data-format-ontology-2018-02-17.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1519410584220" name="http://www.pitt.edu/mdc/dataset" uri="dataset-ontology-2018-02-17.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1519410584220" name="http://www.pitt.edu/mdc/software" uri="software-ontology-2018-02-17.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1519410584220" name="http://www.pitt.edu/mdc/software_license" uri="license-ontology-2018-02-17.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1519410584220" name="http://www.pitt.edu/obc/ide/all-indexing-instances-and-classes.owl" uri="all-indexing-instances-and-classes-2018-02-15.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1519410584220" name="http://www.pitt.edu/obc/ide/apollo-sv.owl" uri="merged-apollo-sv-2018-02-15.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1519410584220" name="http://www.pitt.edu/obc/ide/merged-apollo-sv" uri="merged-apollo-sv-2018-02-23.owl"/>
+    </group>
+</catalog>

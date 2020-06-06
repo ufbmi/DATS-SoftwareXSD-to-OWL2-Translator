@@ -1,0 +1,540 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.pitt.edu/mdc/dataset#"
+     xml:base="http://www.pitt.edu/mdc/dataset"
+     xmlns:obc="http://www.pitt.edu/obc/"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:obo="http://purl.obolibrary.org/obo/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <owl:Ontology rdf:about="http://www.pitt.edu/mdc/dataset"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ERO_0000480 -->
+
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/ERO_0000480"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000111 -->
+
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000111"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/date -->
+
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/date"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/description -->
+
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/description"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/title -->
+
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/title"/>
+    
+
+
+    <!-- http://www.pitt.edu/obc/AUTHORS_1 -->
+
+
+    <owl:AnnotationProperty rdf:about="http://www.pitt.edu/obc/AUTHORS_1"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000155 -->
+
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/BFO_0000155"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000174 -->
+
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/BFO_0000174"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000136 -->
+
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000136"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OBI_0000299 -->
+
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/OBI_0000299"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0000053 -->
+
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0000053"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0002093 -->
+
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0002093"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0002218 -->
+
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0002218"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/APOLLO_SV_00000796 -->
+
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/APOLLO_SV_00000796"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000038 -->
+
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BFO_0000038"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000040 -->
+
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BFO_0000040"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FBcv_0000667 -->
+
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FBcv_0000667"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000100 -->
+
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/IAO_0000100"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OMRSE_00000038 -->
+
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OMRSE_00000038"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/APOLLO_SV_0000000021 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/APOLLO_SV_0000000021"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/APOLLO_SV_0000000022 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/APOLLO_SV_0000000022"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/APOLLO_SV_0000000117 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/APOLLO_SV_0000000117"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/APOLLO_SV_0000000121 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/APOLLO_SV_0000000121"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/APOLLO_SV_00000085 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/APOLLO_SV_00000085"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000380 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000380"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GEO_000000587 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GEO_000000587"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MONDO_0002251 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/MONDO_0002251"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MONDO_0002635 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/MONDO_0002635"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MONDO_0004995 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/MONDO_0004995"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MONDO_0005015 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/MONDO_0005015"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MONDO_0005087 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/MONDO_0005087"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MONDO_0005240 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/MONDO_0005240"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MONDO_0005276 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/MONDO_0005276"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MONDO_0005298 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/MONDO_0005298"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MONDO_0005578 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/MONDO_0005578"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OMRSE_00000098 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/OMRSE_00000098"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OMRSE_00000100 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/OMRSE_00000100"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OMRSE_00000500 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/OMRSE_00000500"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/PCO_0000006 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/PCO_0000006"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCRSEV/OCRSEV_00000579 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/OCRSEV/OCRSEV_00000579"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OCRSEV/OCRSEV_00000599 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/OCRSEV/OCRSEV_00000599"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/PCORnet/PCORnet_00000049 -->
+
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/PCORnet/PCORnet_00000049"/>
+    
+
+
+    <!-- http://www.pitt.edu/obc/IDE_ARTICLES_12000070095 -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/IDE_ARTICLES_12000070095">
+        <obo:BFO_0000174 rdf:resource="http://www.pitt.edu/obc/IDE_ARTICLE_1200015000"/>
+        <obo:BFO_0000174 rdf:resource="http://www.pitt.edu/obc/IDE_ARTICLE_1200015005"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.pitt.edu/obc/IDE_ARTICLE_1200015000 -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/IDE_ARTICLE_1200015000">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000100"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/APOLLO_SV_0000000021"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/APOLLO_SV_0000000022"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/APOLLO_SV_00000085"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000587"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/MONDO_0002251"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/MONDO_0002635"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/MONDO_0004995"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/MONDO_0005015"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/MONDO_0005087"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/MONDO_0005240"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/MONDO_0005276"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/MONDO_0005298"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/MONDO_0005578"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/OMRSE_00000098"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/OMRSE_00000100"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/OMRSE_00000500"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/PCO_0000006"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/OCRSEV/OCRSEV_00000579"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/OCRSEV/OCRSEV_00000599"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/PCORnet/PCORnet_00000049"/>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">National Health and Nutrition Examination Survey (NHANES) 2017-2018, dataset</obo:IAO_0000111>
+        <dc:description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The National Health and Nutrition Examination Survey (NHANES) is a program of studies designed to assess the health and nutritional status of adults and children in the United States. The survey is unique in that it combines interviews and physical examinations.</dc:description>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">National Health and Nutrition Examination Survey (NHANES) 2017-2018</dc:title>
+        <obc:AUTHORS_1 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">National Center for Health Statistics</obc:AUTHORS_1>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">National Health and Nutrition Examination Survey (NHANES) 2017-2018</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.pitt.edu/obc/IDE_ARTICLE_1200015001 -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/IDE_ARTICLE_1200015001">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/APOLLO_SV_00000796"/>
+        <obo:OBI_0000299 rdf:resource="http://www.pitt.edu/obc/IDE_ARTICLE_1200015000"/>
+        <obo:RO_0002218 rdf:resource="http://www.pitt.edu/obc/IDE_ARTICLE_1200015002"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">process of creating National Health and Nutrition Examination Survey (NHANES) 2017-2018, dataset</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.pitt.edu/obc/IDE_ARTICLE_1200015002 -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/IDE_ARTICLE_1200015002">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000040"/>
+        <obo:RO_0000053 rdf:resource="http://www.pitt.edu/obc/IDE_ARTICLE_1200015003"/>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">National Center for Health Statistics, developer of National Health and Nutrition Examination Survey (NHANES) 2017-2018, dataset</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">National Center for Health Statistics</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.pitt.edu/obc/IDE_ARTICLE_1200015003 -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/IDE_ARTICLE_1200015003">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OMRSE_00000038"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">legal person role of National Center for Health Statistics</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.pitt.edu/obc/IDE_ARTICLE_1200015004 -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/IDE_ARTICLE_1200015004">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/FBcv_0000667"/>
+        <obo:IAO_0000136 rdf:resource="http://www.pitt.edu/obc/IDE_ARTICLE_1200015000"/>
+        <obo:ERO_0000480 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?BeginYear=2017</obo:ERO_0000480>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">website for National Health and Nutrition Examination Survey (NHANES) 2017-2018, dataset</obo:IAO_0000111>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.pitt.edu/obc/IDE_ARTICLE_1200015005 -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/IDE_ARTICLE_1200015005">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000100"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/APOLLO_SV_0000000117"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/APOLLO_SV_0000000121"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/APOLLO_SV_00000085"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/GEO_000000380"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/OMRSE_00000098"/>
+        <obo:IAO_0000136 rdf:resource="http://purl.obolibrary.org/obo/PCORnet/PCORnet_00000049"/>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Population and Demographic Data - Florida Products :2018, dataset</obo:IAO_0000111>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2018-04-1</dc:date>
+        <dc:description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2018 population and demographic-related data and products, including: population, historical, current and future by;county, municipality age, race, sex and Hispanic origin</dc:description>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Population and Demographic Data - Florida Products :2018</dc:title>
+        <obc:AUTHORS_1 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Office of Economic and Demographic Research</obc:AUTHORS_1>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Population and Demographic Data - Florida Products :2018</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.pitt.edu/obc/IDE_ARTICLE_1200015006 -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/IDE_ARTICLE_1200015006">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/APOLLO_SV_00000796"/>
+        <obo:BFO_0000155 rdf:resource="http://www.pitt.edu/obc/IDE_ARTICLE_1200015009"/>
+        <obo:OBI_0000299 rdf:resource="http://www.pitt.edu/obc/IDE_ARTICLE_1200015005"/>
+        <obo:RO_0002218 rdf:resource="http://www.pitt.edu/obc/IDE_ARTICLE_1200015007"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">process of creating Population and Demographic Data - Florida Products :2018, dataset</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.pitt.edu/obc/IDE_ARTICLE_1200015007 -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/IDE_ARTICLE_1200015007">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000040"/>
+        <obo:RO_0000053 rdf:resource="http://www.pitt.edu/obc/IDE_ARTICLE_1200015008"/>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Office of Economic and Demographic Research, developer of Population and Demographic Data - Florida Products :2018, dataset</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Office of Economic and Demographic Research</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.pitt.edu/obc/IDE_ARTICLE_1200015008 -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/IDE_ARTICLE_1200015008">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OMRSE_00000038"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">legal person role of Office of Economic and Demographic Research</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.pitt.edu/obc/IDE_ARTICLE_1200015009 -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/IDE_ARTICLE_1200015009">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000038"/>
+        <obo:RO_0002093 rdf:resource="http://www.pitt.edu/obc/IDE_ARTICLE_1200015010"/>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">interval over which Population and Demographic Data - Florida Products :2018, dataset was created</obo:IAO_0000111>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.pitt.edu/obc/IDE_ARTICLE_1200015010 -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/IDE_ARTICLE_1200015010">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000038"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2018-04-1</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.pitt.edu/obc/IDE_ARTICLE_1200015011 -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/IDE_ARTICLE_1200015011">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/FBcv_0000667"/>
+        <obo:IAO_0000136 rdf:resource="http://www.pitt.edu/obc/IDE_ARTICLE_1200015005"/>
+        <obo:ERO_0000480 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://edr.state.fl.us/Content/population-demographics/index.cfm</obo:ERO_0000480>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">website for Population and Demographic Data - Florida Products :2018, dataset</obo:IAO_0000111>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 5.0.5.20170104-0800) https://github.com/owlcs/owlapi/ -->
+
+
