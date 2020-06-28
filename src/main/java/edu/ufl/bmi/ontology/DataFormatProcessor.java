@@ -59,7 +59,7 @@ import edu.ufl.bmi.misc.ControlMeasureIriMapping;
 import edu.ufl.bmi.misc.PublicationLinks;
 
 public class DataFormatProcessor {
-    static long iriCounter = 1200007200L;
+    static long iriCounter = 1200007382L;
     static String iriPrefix = "http://www.pitt.edu/obc/IDE_ARTICLE_";
     static int iriLen = 10;
 
