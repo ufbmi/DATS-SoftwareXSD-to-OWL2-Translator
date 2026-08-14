@@ -70,8 +70,11 @@ public class AnalyzeMdcObjectStructure {
             int cOther=0;
 
             HashSet<String> allSoftwareAttributes = new HashSet<String>();
+            HashSet<String> allTopLevelSoftwareAttributes = new HashSet<String>();
             HashSet<String> allDatasetAttributes = new HashSet<String>();
+            HashSet<String> allTopLevelDatasetAttributes = new HashSet<String>();
             HashSet<String> allFormatAttributes = new HashSet<String>();
+            HashSet<String> allTopLevelFormatAttributes = new HashSet<String>();
             // this outer loop for iterator "i" processes one software/data service at a time
             while (i.hasNext()) {
             	/* 
@@ -92,13 +95,20 @@ public class AnalyzeMdcObjectStructure {
 					String type = typeValue.getAsString();
                     JsonElement contentElem = jo2.get("content");
                     JsonObject contentObject = (JsonObject)contentElem;
+                    Set<String> keys = contentObject.keySet();
 					if (type.equals("edu.pitt.isg.mdc.dats2_2.Dataset")) {
+                        allTopLevelDatasetAttributes.addAll(keys);
+                        traverseObject(contentObject, keys, allDatasetAttributes);
                         cDataset++;
                     } else if (type.equals("edu.pitt.isg.mdc.dats2_2.DataStandard")) {
+                        allTopLevelFormatAttributes.addAll(keys);
+                        traverseObject(contentObject, keys, allFormatAttributes);
                         cDataFormat++;
                     } else if (type.equals("edu.pitt.isg.mdc.dats2_2.DatasetWithOrganization")) {
 						cDatasetWithOrg++;
                     } else if (type.startsWith("edu.pitt.isg.mdc.v1_0")) {
+                        allTopLevelSoftwareAttributes.addAll(keys);
+                        traverseObject(contentObject, keys, allSoftwareAttributes);
                         cSoftware++;
                     } else {
                         System.err.println("Don't understand type: " + type);
@@ -118,8 +128,62 @@ public class AnalyzeMdcObjectStructure {
             System.out.println(cDatasetWithOrg + " datasets with org.");    
             System.out.println(cOther + " other types of object.");    
 
+            System.out.println("All top-level software attributes used by at least one object: ");
+            for (String s : allTopLevelSoftwareAttributes) {
+                System.out.println("\t" + s);
+            }
+
+            System.out.println("All top-level DATS attributes used by at least one dataset: ");
+            for (String s : allTopLevelDatasetAttributes) {
+                System.out.println("\t" + s);
+            }
+
+            System.out.println("All top-level DATS attributes used by at least one data format: ");
+            for (String s : allTopLevelFormatAttributes) {
+                System.out.println("\t" + s);
+            }
+
+            System.out.println("All primitive-level software attributes used by at least one object: ");
+            for (String s : allSoftwareAttributes) {
+                System.out.println("\t" + s);
+            }
+
+            System.out.println("All primitive-level DATS attributes used by at least one dataset: ");
+            for (String s : allDatasetAttributes) {
+                System.out.println("\t" + s);
+            }
+
+            System.out.println("All primitive-level DATS attributes used by at least one data format: ");
+            for (String s : allFormatAttributes) {
+                System.out.println("\t" + s);
+            }
         } catch (Exception e) {
             e.printStackTrace();
+        }
+    }
+
+    protected static void traverseObject(JsonObject object, Set<String> keys, Set<String> cumulativeKeySet) {
+        for (String key : keys) {
+            JsonElement je = object.get(key);
+            if (je.isJsonPrimitive()) {
+                cumulativeKeySet.add(key);
+            } else if (je.isJsonObject()) {
+                JsonObject jo = je.getAsJsonObject();
+                Set<String> joKeys = jo.keySet();
+                traverseObject(jo, joKeys, cumulativeKeySet);
+            } else if (je.isJsonArray()) {
+                JsonArray ja = je.getAsJsonArray();
+                for (JsonElement jeJa : ja) {
+                    if (jeJa.isJsonPrimitive()) cumulativeKeySet.add(key);
+                    else if (jeJa.isJsonObject()) {
+                        JsonObject jo = jeJa.getAsJsonObject();
+                        Set<String> joKeys = jo.keySet();
+                        traverseObject(jo, joKeys, cumulativeKeySet);
+                    } else if (jeJa.isJsonArray()) {
+                        System.out.println("ARRAY IN ARRAY on element " + key);
+                    }
+                }
+            }
         }
     }
 

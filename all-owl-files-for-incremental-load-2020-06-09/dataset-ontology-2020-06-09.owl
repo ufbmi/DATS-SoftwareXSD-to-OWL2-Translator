@@ -1,0 +1,600 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.pitt.edu/mdc/dataset#"
+     xml:base="http://www.pitt.edu/mdc/dataset"
+     xmlns:obc="http://www.pitt.edu/obc/"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:obo="http://purl.obolibrary.org/obo/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <owl:Ontology rdf:about="http://www.pitt.edu/mdc/dataset"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ERO_0000480 -->
+
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/ERO_0000480"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000111 -->
+
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000111"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/date -->
+
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/date"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/description -->
+
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/description"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/title -->
+
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/title"/>
+    
+
+
+    <!-- http://www.pitt.edu/obc/AUTHORS_1 -->
+
+
+    <owl:AnnotationProperty rdf:about="http://www.pitt.edu/obc/AUTHORS_1"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000155 -->
+
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/BFO_0000155"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000174 -->
+
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/BFO_0000174"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000136 -->
+
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000136"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000219 -->
+
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000219"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OBI_0000299 -->
+
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/OBI_0000299"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OBI_0000417 -->
+
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/OBI_0000417"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0000053 -->
+
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0000053"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0002093 -->
+
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0002093"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0002218 -->
+
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0002218"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/APOLLO_SV_00000165 -->
+
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/APOLLO_SV_00000165"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/APOLLO_SV_00000796 -->
+
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/APOLLO_SV_00000796"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000038 -->
+
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BFO_0000038"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000040 -->
+
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BFO_0000040"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FBcv_0000667 -->
+
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FBcv_0000667"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OBI_0002110 -->
+
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OBI_0002110"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OMRSE_00000038 -->
+
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OMRSE_00000038"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+
+    
+
+
+    <!-- http://www.pitt.edu/obc/IDE_0000000021 -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/IDE_0000000021"/>
+    
+
+
+    <!-- http://www.pitt.edu/obc/IDE_0000000303 -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/IDE_0000000303"/>
+    
+
+
+    <!-- http://www.pitt.edu/obc/IDE_0000000326 -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/IDE_0000000326"/>
+    
+
+
+    <!-- http://www.pitt.edu/obc/IDE_0000000340 -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/IDE_0000000340"/>
+    
+
+
+    <!-- http://www.pitt.edu/obc/IDE_0000000342 -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/IDE_0000000342"/>
+    
+
+
+    <!-- http://www.pitt.edu/obc/IDE_0000006211 -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/IDE_0000006211"/>
+    
+
+
+    <!-- http://www.pitt.edu/obc/IDE_ARTICLES_12000070095 -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/IDE_ARTICLES_12000070095">
+        <obo:BFO_0000174 rdf:resource="http://www.pitt.edu/obc/IDE_ARTICLE_1200020100"/>
+        <obo:BFO_0000174 rdf:resource="http://www.pitt.edu/obc/IDE_ARTICLE_1200020114"/>
+        <obo:BFO_0000174 rdf:resource="http://www.pitt.edu/obc/IDE_ARTICLE_1200020119"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.pitt.edu/obc/IDE_ARTICLES_12000070127 -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/IDE_ARTICLES_12000070127"/>
+    
+
+
+    <!-- http://www.pitt.edu/obc/IDE_ARTICLE_1200020100 -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/IDE_ARTICLE_1200020100">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/APOLLO_SV_00000165"/>
+        <obo:IAO_0000136 rdf:resource="http://www.pitt.edu/obc/IDE_0000000326"/>
+        <obo:IAO_0000136 rdf:resource="http://www.pitt.edu/obc/IDE_0000006211"/>
+        <obo:ERO_0000480 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://zenodo.org/record/2642242/files/la.zip?download=1</obo:ERO_0000480>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Los Angeles County, agent level ecosystem census</obo:IAO_0000111>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2019-04-16</dc:date>
+        <dc:description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Description from the FluTE github repository (from which these files were downloaded):\n\nFluTE is an individual-based model that runs in discrete time, with two time steps per simulation day, representing day and night.\n\nTo help prepare for future influenza seasonal epidemics or pandemics, we developed a new stochastic model of the spread of influenza across a large population. Individuals in this model have realistic social contact networks, and transmission and infections are based on the current state of knowledge of the natural history of influenza. The model has been calibrated so that outcomes are consistent with the 1957/1958 Asian A(H2N2) and 2009 pandemic A(H1N1) influenza viruses. We present examples of how this model can be used to study the dynamics of influenza epidemics in the United States and simulate how to mitigate or delay them using pharmaceutical interventions and social distancing measures.\n\nLos Angeles County.  la-tracts.dat is not from the 2000 Census;  It is based on 2007 PEPS estimates from Walter R. McDonald &amp; Associates, Inc. (WRMA) and padded with an additional 776,000 individuals to represent the estimated undocumented population [Flaming et al. Hopeful Workers, Marginal Jobs. 2005].  The other \&quot;la\&quot; data files are based on the 2000 US Census.\n\nData files\n\nA set of 3 data files needs to be in the same directory as the executable to specify a population for FluTE. The file names consist of a prefix (e.g., \&quot;seattle\&quot;) followed by a suffix.\n\n*-tracts.dat - Tract populations and locations, from http://www.census.gov/geo/www/cenpop/cntpop2k.html. The columns in this comma-delimited file are: state FIPS code, county FIPS code, \ntract FIPS code, tract population, tract longitude, and tract latitude.\n\n*-wf.dat - Tract-to-tract workerflow, extracted from stp64.us from Census 2000 Special Tabulation Product 64: Census tract of work by census tract of residence 2000. For the US-level data. Commutes over 100 miles were eliminated from the data. The columns in this space-delimited file are: home state FIPS code, home county FIPS code, home tract FIPS code, work state FIPS code, work county FIPS code, work tract FIPS code, and number of workers.\n\n*-employment.dat - The number of employed working-age adults and the total number of working-age adults, from the Census Summary File 3 (SF3, Table PCT35). The columns in this space-delimited file are: state FIPS code, county FIPS code, tract FIPS code, number of employed20-64 year olds, and the total number of working-age individuals\n(19-64 year olds).</dc:description>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Los Angeles County</dc:title>
+        <obc:AUTHORS_1 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dennis L. Chao;M. Elizabeth Halloran;Valerie J. Obenchain;Ira M. Longini Jr</obc:AUTHORS_1>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Los Angeles County</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.pitt.edu/obc/IDE_ARTICLE_1200020101 -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/IDE_ARTICLE_1200020101">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0002110"/>
+        <obo:IAO_0000219 rdf:resource="http://www.pitt.edu/obc/IDE_ARTICLE_1200020100"/>
+        <obo:ERO_0000480 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://doi.org/10.5281/zenodo.2642242</obo:ERO_0000480>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">identifier for Los Angeles County, agent level ecosystem census</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10.5281/zenodo.2642242</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.pitt.edu/obc/IDE_ARTICLE_1200020102 -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/IDE_ARTICLE_1200020102">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/APOLLO_SV_00000796"/>
+        <obo:BFO_0000155 rdf:resource="http://www.pitt.edu/obc/IDE_ARTICLE_1200020111"/>
+        <obo:OBI_0000299 rdf:resource="http://www.pitt.edu/obc/IDE_ARTICLE_1200020100"/>
+        <obo:OBI_0000417 rdf:resource="http://www.pitt.edu/obc/IDE_ARTICLES_12000070127"/>
+        <obo:RO_0002218 rdf:resource="http://www.pitt.edu/obc/IDE_ARTICLE_1200020103"/>
+        <obo:RO_0002218 rdf:resource="http://www.pitt.edu/obc/IDE_ARTICLE_1200020105"/>
+        <obo:RO_0002218 rdf:resource="http://www.pitt.edu/obc/IDE_ARTICLE_1200020107"/>
+        <obo:RO_0002218 rdf:resource="http://www.pitt.edu/obc/IDE_ARTICLE_1200020109"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">process of creating Los Angeles County, agent level ecosystem census</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.pitt.edu/obc/IDE_ARTICLE_1200020103 -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/IDE_ARTICLE_1200020103">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000040"/>
+        <obo:RO_0000053 rdf:resource="http://www.pitt.edu/obc/IDE_ARTICLE_1200020104"/>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dennis L. Chao, developer of Los Angeles County, agent level ecosystem census</obo:IAO_0000111>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dennis L. Chao, developer of Seattle, agent level ecosystem census</obo:IAO_0000111>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dennis L. Chao, developer of United States of America (the), agent level ecosystem census</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dennis L. Chao</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.pitt.edu/obc/IDE_ARTICLE_1200020104 -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/IDE_ARTICLE_1200020104">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OMRSE_00000038"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">legal person role of Dennis L. Chao</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.pitt.edu/obc/IDE_ARTICLE_1200020105 -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/IDE_ARTICLE_1200020105">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000040"/>
+        <obo:RO_0000053 rdf:resource="http://www.pitt.edu/obc/IDE_ARTICLE_1200020106"/>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M. Elizabeth Halloran, developer of Los Angeles County, agent level ecosystem census</obo:IAO_0000111>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M. Elizabeth Halloran, developer of Seattle, agent level ecosystem census</obo:IAO_0000111>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M. Elizabeth Halloran, developer of United States of America (the), agent level ecosystem census</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M. Elizabeth Halloran</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.pitt.edu/obc/IDE_ARTICLE_1200020106 -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/IDE_ARTICLE_1200020106">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OMRSE_00000038"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">legal person role of M. Elizabeth Halloran</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.pitt.edu/obc/IDE_ARTICLE_1200020107 -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/IDE_ARTICLE_1200020107">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000040"/>
+        <obo:RO_0000053 rdf:resource="http://www.pitt.edu/obc/IDE_ARTICLE_1200020108"/>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Valerie J. Obenchain, developer of Los Angeles County, agent level ecosystem census</obo:IAO_0000111>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Valerie J. Obenchain, developer of Seattle, agent level ecosystem census</obo:IAO_0000111>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Valerie J. Obenchain, developer of United States of America (the), agent level ecosystem census</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Valerie J. Obenchain</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.pitt.edu/obc/IDE_ARTICLE_1200020108 -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/IDE_ARTICLE_1200020108">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OMRSE_00000038"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">legal person role of Valerie J. Obenchain</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.pitt.edu/obc/IDE_ARTICLE_1200020109 -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/IDE_ARTICLE_1200020109">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000040"/>
+        <obo:RO_0000053 rdf:resource="http://www.pitt.edu/obc/IDE_ARTICLE_1200020110"/>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ira M. Longini Jr, developer of Los Angeles County, agent level ecosystem census</obo:IAO_0000111>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ira M. Longini Jr, developer of Seattle, agent level ecosystem census</obo:IAO_0000111>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ira M. Longini Jr, developer of United States of America (the), agent level ecosystem census</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ira M. Longini Jr</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.pitt.edu/obc/IDE_ARTICLE_1200020110 -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/IDE_ARTICLE_1200020110">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OMRSE_00000038"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">legal person role of Ira M. Longini Jr</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.pitt.edu/obc/IDE_ARTICLE_1200020111 -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/IDE_ARTICLE_1200020111">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000038"/>
+        <obo:RO_0002093 rdf:resource="http://www.pitt.edu/obc/IDE_ARTICLE_1200020112"/>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">interval over which Los Angeles County, agent level ecosystem census was created</obo:IAO_0000111>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.pitt.edu/obc/IDE_ARTICLE_1200020112 -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/IDE_ARTICLE_1200020112">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000038"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2019-04-16</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.pitt.edu/obc/IDE_ARTICLE_1200020113 -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/IDE_ARTICLE_1200020113">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/FBcv_0000667"/>
+        <obo:IAO_0000136 rdf:resource="http://www.pitt.edu/obc/IDE_ARTICLE_1200020100"/>
+        <obo:ERO_0000480 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://zenodo.org/record/2642242</obo:ERO_0000480>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">website for Los Angeles County, agent level ecosystem census</obo:IAO_0000111>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.pitt.edu/obc/IDE_ARTICLE_1200020114 -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/IDE_ARTICLE_1200020114">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/APOLLO_SV_00000165"/>
+        <obo:IAO_0000136 rdf:resource="http://www.pitt.edu/obc/IDE_0000000340"/>
+        <obo:IAO_0000136 rdf:resource="http://www.pitt.edu/obc/IDE_0000000342"/>
+        <obo:ERO_0000480 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://zenodo.org/record/2642246/files/seattle.zip?download=1</obo:ERO_0000480>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Seattle, agent level ecosystem census</obo:IAO_0000111>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2019-04-16</dc:date>
+        <dc:description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Description from the FluTE github repository (from which these files were downloaded):\n\nFluTE is an individual-based model that runs in discrete time, with two time steps per simulation day, representing day and night.\n\nTo help prepare for future influenza seasonal epidemics or pandemics, we developed a new stochastic model of the spread of influenza across a large population. Individuals in this model have realistic social contact networks, and transmission and infections are based on the current state of knowledge of the natural history of influenza. The model has been calibrated so that outcomes are consistent with the 1957/1958 Asian A(H2N2) and 2009 pandemic A(H1N1) influenza viruses. We present examples of how this model can be used to study the dynamics of influenza epidemics in the United States and simulate how to mitigate or delay them using pharmaceutical interventions and social distancing measures.\n\nLos Angeles County.  la-tracts.dat is not from the 2000 Census;  It is based on 2007 PEPS estimates from Walter R. McDonald &amp; Associates, Inc. (WRMA) and padded with an additional 776,000 individuals to represent the estimated undocumented population [Flaming et al. Hopeful Workers, Marginal Jobs. 2005].  The other \&quot;la\&quot; data files are based on the 2000 US Census.\n\nData files\n\nA set of 3 data files needs to be in the same directory as the executable to specify a population for FluTE. The file names consist of a prefix (e.g., \&quot;seattle\&quot;) followed by a suffix.\n\n*-tracts.dat - Tract populations and locations, from http://www.census.gov/geo/www/cenpop/cntpop2k.html. The columns in this comma-delimited file are: state FIPS code, county FIPS code, \ntract FIPS code, tract population, tract longitude, and tract latitude.\n\n*-wf.dat - Tract-to-tract workerflow, extracted from stp64.us from Census 2000 Special Tabulation Product 64: Census tract of work by census tract of residence 2000. For the US-level data. Commutes over 100 miles were eliminated from the data. The columns in this space-delimited file are: home state FIPS code, home county FIPS code, home tract FIPS code, work state FIPS code, work county FIPS code, work tract FIPS code, and number of workers.\n\n*-employment.dat - The number of employed working-age adults and the total number of working-age adults, from the Census Summary File 3 (SF3, Table PCT35). The columns in this space-delimited file are: state FIPS code, county FIPS code, tract FIPS code, number of employed20-64 year olds, and the total number of working-age individuals\n(19-64 year olds).</dc:description>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Seattle</dc:title>
+        <obc:AUTHORS_1 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dennis L. Chao;M. Elizabeth Halloran;Valerie J. Obenchain;Ira M. Longini Jr</obc:AUTHORS_1>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Seattle</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.pitt.edu/obc/IDE_ARTICLE_1200020115 -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/IDE_ARTICLE_1200020115">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0002110"/>
+        <obo:IAO_0000219 rdf:resource="http://www.pitt.edu/obc/IDE_ARTICLE_1200020114"/>
+        <obo:ERO_0000480 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://doi.org/10.5281/zenodo.2642246</obo:ERO_0000480>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">identifier for Seattle, agent level ecosystem census</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10.5281/zenodo.2642246</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.pitt.edu/obc/IDE_ARTICLE_1200020116 -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/IDE_ARTICLE_1200020116">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/APOLLO_SV_00000796"/>
+        <obo:BFO_0000155 rdf:resource="http://www.pitt.edu/obc/IDE_ARTICLE_1200020117"/>
+        <obo:OBI_0000299 rdf:resource="http://www.pitt.edu/obc/IDE_ARTICLE_1200020114"/>
+        <obo:OBI_0000417 rdf:resource="http://www.pitt.edu/obc/IDE_ARTICLES_12000070127"/>
+        <obo:RO_0002218 rdf:resource="http://www.pitt.edu/obc/IDE_ARTICLE_1200020103"/>
+        <obo:RO_0002218 rdf:resource="http://www.pitt.edu/obc/IDE_ARTICLE_1200020105"/>
+        <obo:RO_0002218 rdf:resource="http://www.pitt.edu/obc/IDE_ARTICLE_1200020107"/>
+        <obo:RO_0002218 rdf:resource="http://www.pitt.edu/obc/IDE_ARTICLE_1200020109"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">process of creating Seattle, agent level ecosystem census</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.pitt.edu/obc/IDE_ARTICLE_1200020117 -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/IDE_ARTICLE_1200020117">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000038"/>
+        <obo:RO_0002093 rdf:resource="http://www.pitt.edu/obc/IDE_ARTICLE_1200020112"/>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">interval over which Seattle, agent level ecosystem census was created</obo:IAO_0000111>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.pitt.edu/obc/IDE_ARTICLE_1200020118 -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/IDE_ARTICLE_1200020118">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/FBcv_0000667"/>
+        <obo:IAO_0000136 rdf:resource="http://www.pitt.edu/obc/IDE_ARTICLE_1200020114"/>
+        <obo:ERO_0000480 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://zenodo.org/record/2642246</obo:ERO_0000480>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">website for Seattle, agent level ecosystem census</obo:IAO_0000111>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.pitt.edu/obc/IDE_ARTICLE_1200020119 -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/IDE_ARTICLE_1200020119">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/APOLLO_SV_00000165"/>
+        <obo:IAO_0000136 rdf:resource="http://www.pitt.edu/obc/IDE_0000000021"/>
+        <obo:IAO_0000136 rdf:resource="http://www.pitt.edu/obc/IDE_0000000303"/>
+        <obo:ERO_0000480 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://zenodo.org/record/2642260/files/usa.zip?download=1</obo:ERO_0000480>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">United States of America (the), agent level ecosystem census</obo:IAO_0000111>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2019-04-16</dc:date>
+        <dc:description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Description from the FluTE github repository (from which these files were downloaded):\n\nFluTE is an individual-based model that runs in discrete time, with two time steps per simulation day, representing day and night.\n\nTo help prepare for future influenza seasonal epidemics or pandemics, we developed a new stochastic model of the spread of influenza across a large population. Individuals in this model have realistic social contact networks, and transmission and infections are based on the current state of knowledge of the natural history of influenza. The model has been calibrated so that outcomes are consistent with the 1957/1958 Asian A(H2N2) and 2009 pandemic A(H1N1) influenza viruses. We present examples of how this model can be used to study the dynamics of influenza epidemics in the United States and simulate how to mitigate or delay them using pharmaceutical interventions and social distancing measures.\n\nLos Angeles County.  la-tracts.dat is not from the 2000 Census;  It is based on 2007 PEPS estimates from Walter R. McDonald &amp; Associates, Inc. (WRMA) and padded with an additional 776,000 individuals to represent the estimated undocumented population [Flaming et al. Hopeful Workers, Marginal Jobs. 2005].  The other \&quot;la\&quot; data files are based on the 2000 US Census.\n\nData files\n\nA set of 3 data files needs to be in the same directory as the executable to specify a population for FluTE. The file names consist of a prefix (e.g., \&quot;seattle\&quot;) followed by a suffix.\n\n*-tracts.dat - Tract populations and locations, from http://www.census.gov/geo/www/cenpop/cntpop2k.html. The columns in this comma-delimited file are: state FIPS code, county FIPS code, \ntract FIPS code, tract population, tract longitude, and tract latitude.\n\n*-wf.dat - Tract-to-tract workerflow, extracted from stp64.us from Census 2000 Special Tabulation Product 64: Census tract of work by census tract of residence 2000. For the US-level data. Commutes over 100 miles were eliminated from the data. The columns in this space-delimited file are: home state FIPS code, home county FIPS code, home tract FIPS code, work state FIPS code, work county FIPS code, work tract FIPS code, and number of workers.\n\n*-employment.dat - The number of employed working-age adults and the total number of working-age adults, from the Census Summary File 3 (SF3, Table PCT35). The columns in this space-delimited file are: state FIPS code, county FIPS code, tract FIPS code, number of employed20-64 year olds, and the total number of working-age individuals\n(19-64 year olds).</dc:description>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">United States of America (the)</dc:title>
+        <obc:AUTHORS_1 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dennis L. Chao;M. Elizabeth Halloran;Valerie J. Obenchain;Ira M. Longini Jr</obc:AUTHORS_1>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">United States of America (the)</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.pitt.edu/obc/IDE_ARTICLE_1200020120 -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/IDE_ARTICLE_1200020120">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0002110"/>
+        <obo:IAO_0000219 rdf:resource="http://www.pitt.edu/obc/IDE_ARTICLE_1200020119"/>
+        <obo:ERO_0000480 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://doi.org/10.5281/zenodo.2642260</obo:ERO_0000480>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">identifier for United States of America (the), agent level ecosystem census</obo:IAO_0000111>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10.5281/zenodo.2642260</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.pitt.edu/obc/IDE_ARTICLE_1200020121 -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/IDE_ARTICLE_1200020121">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/APOLLO_SV_00000796"/>
+        <obo:BFO_0000155 rdf:resource="http://www.pitt.edu/obc/IDE_ARTICLE_1200020122"/>
+        <obo:OBI_0000299 rdf:resource="http://www.pitt.edu/obc/IDE_ARTICLE_1200020119"/>
+        <obo:OBI_0000417 rdf:resource="http://www.pitt.edu/obc/IDE_ARTICLES_12000070127"/>
+        <obo:RO_0002218 rdf:resource="http://www.pitt.edu/obc/IDE_ARTICLE_1200020103"/>
+        <obo:RO_0002218 rdf:resource="http://www.pitt.edu/obc/IDE_ARTICLE_1200020105"/>
+        <obo:RO_0002218 rdf:resource="http://www.pitt.edu/obc/IDE_ARTICLE_1200020107"/>
+        <obo:RO_0002218 rdf:resource="http://www.pitt.edu/obc/IDE_ARTICLE_1200020109"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">process of creating United States of America (the), agent level ecosystem census</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.pitt.edu/obc/IDE_ARTICLE_1200020122 -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/IDE_ARTICLE_1200020122">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/BFO_0000038"/>
+        <obo:RO_0002093 rdf:resource="http://www.pitt.edu/obc/IDE_ARTICLE_1200020112"/>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">interval over which United States of America (the), agent level ecosystem census was created</obo:IAO_0000111>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.pitt.edu/obc/IDE_ARTICLE_1200020123 -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/IDE_ARTICLE_1200020123">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/FBcv_0000667"/>
+        <obo:IAO_0000136 rdf:resource="http://www.pitt.edu/obc/IDE_ARTICLE_1200020119"/>
+        <obo:ERO_0000480 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://zenodo.org/record/2642260</obo:ERO_0000480>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">website for United States of America (the), agent level ecosystem census</obo:IAO_0000111>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 5.0.5.20170104-0800) https://github.com/owlcs/owlapi/ -->
+
+

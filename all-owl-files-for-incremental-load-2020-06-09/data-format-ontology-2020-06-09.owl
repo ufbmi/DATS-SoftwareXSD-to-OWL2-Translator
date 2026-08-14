@@ -1,0 +1,199 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.pitt.edu/mdc/dataformat#"
+     xml:base="http://www.pitt.edu/mdc/dataformat"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:obo="http://purl.obolibrary.org/obo/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <owl:Ontology rdf:about="http://www.pitt.edu/mdc/dataformat"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ERO_0000480 -->
+
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/ERO_0000480"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000111 -->
+
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000111"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/description -->
+
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/description"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/title -->
+
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/title"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000174 -->
+
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/BFO_0000174"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000136 -->
+
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000136"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000219 -->
+
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000219"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000098 -->
+
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/IAO_0000098"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000129 -->
+
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/IAO_0000129"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000310 -->
+
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/IAO_0000310"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0020000 -->
+
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/IAO_0020000"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+
+    
+
+
+    <!-- http://www.pitt.edu/obc/IDE_ARTICLES_12000070095 -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/IDE_ARTICLES_12000070095">
+        <obo:BFO_0000174 rdf:resource="http://www.pitt.edu/obc/IDE_ARTICLES_12000070127"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.pitt.edu/obc/IDE_ARTICLES_12000070127 -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/IDE_ARTICLES_12000070127">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000098"/>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FluTE Synthetic Ecosystem - v1.1, data format</obo:IAO_0000111>
+        <dc:description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The synthetic ecosystem format used by FluTE.</dc:description>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FluTE Synthetic Ecosystem</dc:title>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FluTE Synthetic Ecosystem - v1.1</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.pitt.edu/obc/IDE_ARTICLE_1200007382 -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/IDE_ARTICLE_1200007382">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0020000"/>
+        <obo:IAO_0000219 rdf:resource="http://www.pitt.edu/obc/IDE_ARTICLES_12000070127"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MDC:flute-synthetic-ecosystem-v1.1</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.pitt.edu/obc/IDE_ARTICLE_1200007383 -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/IDE_ARTICLE_1200007383">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000129"/>
+        <obo:IAO_0000219 rdf:resource="http://www.pitt.edu/obc/IDE_ARTICLES_12000070127"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1.1</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.pitt.edu/obc/IDE_ARTICLE_1200007384 -->
+
+
+    <owl:NamedIndividual rdf:about="http://www.pitt.edu/obc/IDE_ARTICLE_1200007384">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/IAO_0000310"/>
+        <obo:IAO_0000136 rdf:resource="http://www.pitt.edu/obc/IDE_ARTICLES_12000070127"/>
+        <obo:ERO_0000480 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/dlchao/FluTE/blob/master/README</obo:ERO_0000480>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">human readable specification for FluTE Synthetic Ecosystem - v1.1, data format</obo:IAO_0000111>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 5.0.5.20170104-0800) https://github.com/owlcs/owlapi/ -->
+
+
